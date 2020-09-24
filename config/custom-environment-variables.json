@@ -1,0 +1,5 @@
+{
+    "mongodbConnect": "db",
+    "winstonDB": "db1",
+    "filesDB": "db2"
+}

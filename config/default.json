@@ -1,0 +1,5 @@
+{
+    "mongodbConnect": "mongodb://localhost/onlineTest",
+    "winstonDB": "mongodb://localhost/onlineTestLogs",
+    "filesDB": "mongodb://localhost/onlineTestFiles"
+}
